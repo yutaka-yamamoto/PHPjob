@@ -2,10 +2,10 @@
 $num = 1;
 while($num < 101) {
     if ($num %3 == 0 && $num %5 ==0){
-        echo "Fizz!Bizz!"; 
+        echo "Fizz!Buzz!"; 
         echo "<br>";
     } elseif ($num %5 == 0){
-        echo "Bizz!";
+        echo "Buzz!";
         echo "<br>";
     } elseif ($num %3 == 0){
         echo "Fizz!";
@@ -13,7 +13,7 @@ while($num < 101) {
     } else {
         echo $num;
         echo "<br>";
-        } 
+           } 
         $num++;
 }
 ?>
