@@ -1,0 +1,50 @@
+@charset "utf-8";
+.wrapper{
+    width: 1000px;
+}
+
+.container{
+    display: flex;
+}
+img {
+    background-color: #add8e6;
+    height: 120px;
+    width: 200px;
+}
+.box1 {
+    background-color: #87ceeb;
+    height: 60px;
+    width: 800px;
+    text-align: right;
+}
+.txt{
+    padding-top: 18px;
+
+}
+.box2 {
+    background-color: #00ffff;
+    height: 60px;
+    width: 800px;
+    text-align: right;
+}
+td {
+    border: #ffff 1px solid;
+    background-color: #e0ffff;
+}
+th {
+    border: #ffff 1px solid;
+    background-color: #87ceeb;
+} 
+.container2{
+    margin: 10px auto;
+}
+
+
+
+
+
+footer {
+    background-color: #00ced1;
+    height: 50px;
+    width: 1000px;
+}
