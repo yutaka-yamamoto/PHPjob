@@ -1,7 +1,7 @@
 <?php 
 define('DB_DATABASE', 'checktest4');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'root');
 define('PDO_DSN', 'mysql:host=localhost;charset=utf8;dbname='.DB_DATABASE);
 
 function connect() {

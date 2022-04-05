@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css"> 
 
 <div class="wrapper">
     <div class="container">   
